@@ -435,6 +435,10 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 
+#msg-box8-u .mbr-section-title,
+#msg-box8-u p {
+  color: #fff;
+}
 #form1-3 .form-control-label {
   color: #232323;
 }
