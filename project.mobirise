@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site steven nov 2016",
-    "currentPage": "index.html",
+    "currentPage": "SCULPTURES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -66,7 +66,7 @@
           },
           "title": "STEVEN MANES SCULPTURES",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO TO DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO TO OTHER PROJECTS<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>  "
         },
         {
           "_tags": [
