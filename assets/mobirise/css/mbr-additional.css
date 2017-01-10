@@ -1,7 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 
 
 
@@ -420,6 +426,26 @@ h6,
 }
 #header1-b .btn {
   font-family: 'Oswald', sans-serif;
+}
+#msg-box5-16 P {
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box4-13 P {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: right;
+}
+#msg-box5-14 P {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box5-15 P {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+#msg-box5-17 P {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 
