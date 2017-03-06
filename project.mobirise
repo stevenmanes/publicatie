@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site steven nov 2016",
-    "currentPage": "index.html",
+    "currentPage": "ABOUT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3312,7 +3312,7 @@
           },
           "title": "ABOUT STEVEN MANES",
           "text": "Steven Antonio J Manes, born in 1993, studies Sculpture in Ghent. Artist of Italian descent who makes abstract sculptures and drawings about his experience of living in this perishable world in which we all have to live. Strong feelings are being translated into images. Spontaneous and abstract. Searching for relief and understanding. <br><br>Steven Antonio J Manes, geboren in 1993, studeert Beeldhouwkunst in Gent. Kunstenaar van Italiaanse afkomst die abstracte sculpturen en tekeningen maakt over zijn ervaring van het leven in deze vergankelijke wereld waarin we allemaal moeten leven. Sterke gevoelens worden op spontane en abstracte wijze vertaald in beelden. Zoekend naar opluchting en begrip.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "_styles": {
             "H3": {
               "font-family": "'Oswald', sans-serif",
