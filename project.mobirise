@@ -21,12 +21,15 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 85,
+    "uniqCompNum": 87,
     "versionPublish": "3.10.1"
   },
   "pages": {
     "SCULPTURES.html": {
-      "settings": {},
+      "settings": {
+        "order": 1,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -727,7 +730,10 @@
       ]
     },
     "DRAWINGS.html": {
-      "settings": {},
+      "settings": {
+        "order": 2,
+        "meta_descr": "steven manes,steven,manes,sculpture,drawings"
+      },
       "components": [
         {
           "_tags": [
@@ -772,7 +778,10 @@
       ]
     },
     "WORK.html": {
-      "settings": {},
+      "settings": {
+        "order": 3,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -816,7 +825,10 @@
       ]
     },
     "CONTACT.html": {
-      "settings": {},
+      "settings": {
+        "order": 4,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -883,7 +895,10 @@
       ]
     },
     "OTHERPROJECTS.html": {
-      "settings": {},
+      "settings": {
+        "order": 5,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -1188,7 +1203,10 @@
       ]
     },
     "MODELDRAWINGS.html": {
-      "settings": {},
+      "settings": {
+        "order": 8,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -1674,7 +1692,10 @@
       ]
     },
     "ABSTRACTDRAWINGS.html": {
-      "settings": {},
+      "settings": {
+        "order": 6,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -2353,7 +2374,10 @@
       ]
     },
     "OTHERDRAWINGS.html": {
-      "settings": {},
+      "settings": {
+        "order": 7,
+        "meta_descr": "steven manes,steven,manes,sculpture"
+      },
       "components": [
         {
           "_tags": [
@@ -2607,10 +2631,11 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "steven,manes,steven manes,sculpture",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 9
       },
       "components": [
         {
@@ -2662,7 +2687,10 @@
       ]
     },
     "MONOTYPES.html": {
-      "settings": {},
+      "settings": {
+        "order": 10,
+        "meta_descr": "steven,manes,sculpture,monotype,monotypes,steven manes"
+      },
       "components": [
         {
           "_tags": [
@@ -3259,7 +3287,10 @@
       ]
     },
     "ABOUT.html": {
-      "settings": {},
+      "settings": {
+        "order": 11,
+        "meta_descr": "steven,manes,steven manes,sculpture,"
+      },
       "components": [
         {
           "_tags": [
@@ -3312,7 +3343,7 @@
           },
           "title": "ABOUT STEVEN MANES",
           "text": "Steven Antonio J Manes, born in 1993, studies Sculpture in Ghent. Artist of Italian descent who makes abstract sculptures and drawings about his experience of living in this perishable world in which we all have to live. Strong feelings are being translated into images. Spontaneous and abstract. Searching for relief and understanding. <br><br>Steven Antonio J Manes, geboren in 1993, studeert Beeldhouwkunst in Gent. Kunstenaar van Italiaanse afkomst die abstracte sculpturen en tekeningen maakt over zijn ervaring van het leven in deze vergankelijke wereld waarin we allemaal moeten leven. Sterke gevoelens worden op spontane en abstracte wijze vertaald in beelden. Zoekend naar opluchting en begrip.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/stevenmanesantoniojohn/?hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a>",
           "_styles": {
             "H3": {
               "font-family": "'Oswald', sans-serif",
