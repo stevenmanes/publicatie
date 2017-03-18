@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site steven nov 2016",
-    "currentPage": "ABOUT.html",
+    "currentPage": "ABSTRACTDRAWINGS.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 87,
+    "uniqCompNum": 95,
     "versionPublish": "3.10.1"
   },
   "pages": {
@@ -572,6 +572,13 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box1-22",
           "_params": {
             "paddingTop": "0",
@@ -595,14 +602,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "SCULPTURES &nbsp;&lt; 2015",
-          "_styles": {
-            "H3": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "text-align": "left"
-            }
-          }
+          "title": "SCULPTURES &nbsp;&lt; 2015"
         },
         {
           "_inherit": "gallery1",
@@ -773,7 +773,7 @@
           },
           "title": "STEVEN MANES DRAWINGS",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>    "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>    "
         }
       ]
     },
@@ -837,25 +837,26 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-3",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9254-2000x1500-45.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgColorRadio": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
@@ -891,6 +892,35 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND TO STEVEN MANES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9785-2000x1500-47.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "SOCIAL",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/stevenmanesantoniojohn/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     },
@@ -1245,7 +1275,7 @@
           },
           "title": "STEVEN MANES MODEL DRAWINGS",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1254,8 +1284,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -1357,8 +1387,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -1460,8 +1490,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -1563,8 +1593,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -1734,7 +1764,7 @@
           },
           "title": "STEVEN MANES ABSTRACT DRAWINGS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> "
         },
         {
           "_tags": [
@@ -1769,6 +1799,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-1b",
           "_params": {
             "imageSize": "56",
@@ -1815,24 +1851,24 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Abstract lines . 2016 .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-25",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1874,97 +1910,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Residente Forestiero . 2016 .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-26",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img017-1400x2073-50.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-27",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img018-1400x2011-98.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-28",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img027-1400x2026-77.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1973,8 +1919,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -2136,8 +2082,8 @@
           "_name": "image2",
           "_anchor": "image2-1a",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showText": false
           },
@@ -2158,43 +2104,14 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-n",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stevenmanes-abstractdrawing450x3m-2000x2000-74.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -2256,7 +2173,7 @@
           "_name": "header1",
           "_anchor": "header1-p",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-6258-2000x1812-67.jpg",
@@ -2309,26 +2226,6 @@
                 "active": false
               },
               {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8188-2000x2000-25-2000x2000-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8188-2000x2000-25.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8397-2000x2369-23-2000x2369-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8397-2000x2369-23.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2345,16 +2242,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-6905-2000x2000-57-2000x2000-93.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6905-2000x2000-57.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6258-2000x1812-46-2000x1812-43.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6258-2000x1812-46.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2426,8 +2313,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Creative",
@@ -2549,8 +2436,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -2697,6 +2584,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "header1-1c",
           "_params": {
             "parallax": true,
@@ -2719,13 +2612,7 @@
           },
           "title": "STEVEN MANES MONOTYPES",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> "
         },
         {
           "_tags": [
@@ -3297,6 +3184,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-29",
           "_params": {
             "imageSize": 50,
@@ -3343,13 +3236,7 @@
           },
           "title": "ABOUT STEVEN MANES",
           "text": "Steven Antonio J Manes, born in 1993, studies Sculpture in Ghent. Artist of Italian descent who makes abstract sculptures and drawings about his experience of living in this perishable world in which we all have to live. Strong feelings are being translated into images. Spontaneous and abstract. Searching for relief and understanding. <br><br>Steven Antonio J Manes, geboren in 1993, studeert Beeldhouwkunst in Gent. Kunstenaar van Italiaanse afkomst die abstracte sculpturen en tekeningen maakt over zijn ervaring van het leven in deze vergankelijke wereld waarin we allemaal moeten leven. Sterke gevoelens worden op spontane en abstracte wijze vertaald in beelden. Zoekend naar opluchting en begrip.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/stevenmanesantoniojohn/?hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a>  <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/stevenmanesantoniojohn/?hl=nl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a>"
         }
       ]
     }
