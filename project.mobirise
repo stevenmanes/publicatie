@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site steven nov 2016",
-    "currentPage": "ABSTRACTDRAWINGS.html",
+    "currentPage": "DRAWINGS.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -773,7 +773,7 @@
           },
           "title": "STEVEN MANES DRAWINGS",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>    "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MODELDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">MODEL DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"ABSTRACTDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">ABSTRACT DRAWINGS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"OTHERDRAWINGS.html\" data-toolbar=\"-mbrBtnMove\">OTHER DRAWINGS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MONOTYPES.html\" data-toolbar=\"-mbrBtnMove\">MONOTYPES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"WORK.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>    "
         }
       ]
     },
