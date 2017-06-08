@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site steven nov 2016",
-    "currentPage": "ABSTRACTDRAWINGS.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
     "SCULPTURES.html": {
       "settings": {
         "order": 1,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -732,7 +732,7 @@
     "DRAWINGS.html": {
       "settings": {
         "order": 2,
-        "meta_descr": "steven manes,steven,manes,sculpture,drawings"
+        "meta_descr": "steven manes,steven,manes,sculpture,drawings,stevenmanes"
       },
       "components": [
         {
@@ -780,7 +780,7 @@
     "WORK.html": {
       "settings": {
         "order": 3,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -827,7 +827,7 @@
     "CONTACT.html": {
       "settings": {
         "order": 4,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -927,7 +927,7 @@
     "OTHERPROJECTS.html": {
       "settings": {
         "order": 5,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -1235,7 +1235,7 @@
     "MODELDRAWINGS.html": {
       "settings": {
         "order": 8,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -1724,7 +1724,7 @@
     "ABSTRACTDRAWINGS.html": {
       "settings": {
         "order": 6,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -1843,7 +1843,7 @@
             }
           },
           "title": "INTRO WITH IMAGE",
-          "text": "Working on ' Ho solo Pietre nella mia testa ' [3x2,2m] . 2017",
+          "text": "Working on ' Ho solo Pietre nella mia testa ' . [3x2,2m] . 2017",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-text": {
@@ -2372,7 +2372,7 @@
     "OTHERDRAWINGS.html": {
       "settings": {
         "order": 7,
-        "meta_descr": "steven manes,steven,manes,sculpture"
+        "meta_descr": "steven manes,steven,manes,sculpture,stevenmanes"
       },
       "components": [
         {
@@ -2627,7 +2627,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "steven,manes,steven manes,sculpture",
+        "meta_descr": "steven,manes,steven manes,sculpture,stevenmanes",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2685,7 +2685,7 @@
     "MONOTYPES.html": {
       "settings": {
         "order": 10,
-        "meta_descr": "steven,manes,sculpture,monotype,monotypes,steven manes"
+        "meta_descr": "steven,manes,sculpture,monotype,monotypes,steven manes,stevenmanes"
       },
       "components": [
         {
@@ -3285,7 +3285,7 @@
     "ABOUT.html": {
       "settings": {
         "order": 11,
-        "meta_descr": "steven,manes,steven manes,sculpture,"
+        "meta_descr": "steven,manes,steven manes,sculpture,stevenmanes"
       },
       "components": [
         {
